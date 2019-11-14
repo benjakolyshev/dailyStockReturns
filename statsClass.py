@@ -3,7 +3,7 @@
 """
 Created on Sun Nov 10 21:13:19 2019
 
-@author: satan
+@author: Ben
 """
 
 import math
